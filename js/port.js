@@ -1,8 +1,8 @@
 //アルバムデータ作成
 var album = [
-    {src: 'img/1.png', msg: '・人生初制作サイト　制作期間：約1か月'},
-    {src: 'img/2.png', msg: '・人生初ロゴ制作　Illustrator使用'},
-    {src: 'img/3.png', msg: '・オンラインサロン「箕輪編集室」のバナー制作　Illustrator使用'}
+    {src: 'img/1.png', msg: '・初制作サイト '},
+    {src: 'img/2.png', msg: '・初ロゴ制作　'},
+    {src: 'img/3.png', msg: '・初バナー制作'}
 ];
 
 //最初のデータを表示しておく
